@@ -3,6 +3,7 @@ sidebar_position: 5
 description: This documents list all available configuration and flags for AvalancheGo.
 ---
 
+
 # AvalancheGo Config and Flags
 
 <!-- markdownlint-disable MD001 -->
